@@ -7,3 +7,5 @@ Fall 2017
 # install
 library(devtools)
 devtools::install_github("adams-cam/GA")
+
+
